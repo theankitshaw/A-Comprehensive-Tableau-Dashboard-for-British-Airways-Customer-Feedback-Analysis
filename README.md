@@ -47,7 +47,7 @@ Regional Marketing & Operations: The map highlights a stark geographical divide 
 
 Personalized Customer Experience: The ability to filter by traveler type (Business, Couple Leisure, Family Leisure) allows the airline to tailor its improvements. For example, if Family Leisure travelers rate ground service lower than Business travelers, B.A. can focus on improving family-specific check-in and boarding processes.
 
-# 6. Screenshots 
-![Dashboard Preview].(https://public.tableau.com/app/profile/ankit.shaw/viz/British_Airways_Reviews_DASHBOARD/Dashboard1)
+# 6. Tableau Link
+(https://public.tableau.com/app/profile/ankit.shaw/viz/British_Airways_Reviews_DASHBOARD/Dashboard1)
 
 
